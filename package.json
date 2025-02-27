@@ -11,8 +11,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.5.1",
+  "packageManager": "pnpm@10.5.2",
   "devDependencies": {
+    "portfinder": "^1.0.33",
     "ts-loader": "^9.5.2",
     "typescript": "^5.7.3",
     "webpack": "^5.98.0",
